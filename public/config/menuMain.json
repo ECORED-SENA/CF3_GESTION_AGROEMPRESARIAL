@@ -1,0 +1,198 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "estructura",
+    "title": "1. Estructura administrativa de una empresa agropecuaria",
+    "breadcrumb": ["Inicio","Tema 1"],
+    "path": "pages/1-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "estructura",
+        "title": "1.1 Metodologías administrativas",
+        "anchor": "11"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "estructura",
+        "title": "1.2 Actividades administrativas",
+        "anchor": "12"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "estructura",
+        "title": "1.3 Recursos",
+        "anchor": "13"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "estructura",
+        "title": "1.4 Inventarios",
+        "anchor": "14"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "estructura",
+        "title": "1.5 Programación",
+        "anchor": "15"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "estructura",
+        "title": "1.6 Asignación de responsabilidades",
+        "anchor": "16"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "estructura",
+        "title": "1.7 Plan de acción",
+        "anchor": "17"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "escenarios",
+    "title": "2. Escenarios de mercadeo para productos agropecuarios en negocios verdes",
+    "breadcrumb": ["Inicio","tema 2"],
+    "path": "pages/2-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "escenarios",
+        "title": "2.1 Estructura organizacional ",
+        "anchor": "21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "escenarios",
+        "title": "2.2 Planeación Estratégica",
+        "anchor": "22"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "escenarios",
+        "title": "2.3 Diagnóstico",
+        "anchor": "23"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "escenarios",
+        "title": "2.4 Acciones de mercadeo",
+        "anchor": "24"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "escenarios",
+        "title": "2.5 Segmento de mercado",
+        "anchor": "25"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "escenarios",
+        "title": "2.6 Recursos organizacionales",
+        "anchor": "26"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "escenarios",
+        "title": "2.7 Inventarios",
+        "anchor": "27"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "escenarios",
+        "title": "2.8 Tecnologías de la Información y la Comunicación ",
+        "anchor": "28"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "diligencia",
+    "title": "3. Diligencia del talento humanoa",
+    "breadcrumb": ["Inicio","tema 3"],
+    "path": "pages/3-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "diligencia",
+        "title": "3.1 Gestión del talento humano",
+        "anchor": "31"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "diligencia",
+        "title": "3.2 Actividades primordiales de talento humano",
+        "anchor": "32"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "diligencia",
+        "title": "3.3 Reclutamiento del personal",
+        "anchor": "33"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "diligencia",
+        "title": "3.4 Selección del personal",
+        "anchor": "34"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "diligencia",
+        "title": "3.5 Bienestar laboral",
+        "anchor": "35"
+      }
+    ]
+  },
+  { 
+    "id": 1,
+    "icon": "fa fa-file-text-o",
+    "slug": "instrumentos",
+    "title": "4. Instrumentos financieros de patrimonio de la empresa agropecuaria",
+    "breadcrumb": ["Inicio","tema 4"],
+    "path": "pages/4-tema.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "instrumentos",
+        "title": "4.1 Empresa",
+        "anchor": "41"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "instrumentos",
+        "title": "4.2 Legislación contable",
+        "anchor": "42"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "instrumentos",
+        "title": "4.3 Contabilidad",
+        "anchor": "43"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "instrumentos",
+        "title": "4.4 Contabilidad de costos",
+        "anchor": "44"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "instrumentos",
+        "title": "4.5 Contabilidad de inventarios",
+        "anchor": "45"
+      }
+    ]
+  }
+]
